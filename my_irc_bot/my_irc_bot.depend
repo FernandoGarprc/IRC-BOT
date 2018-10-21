@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540074187 source:/home/fernando/Downloads/my_irc_bot/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<string.h>
+
